@@ -1,0 +1,6 @@
+D:\USASK\PhD_USASK\Research\Resources\Model\Code\TRUNK_test-1\PDMROF.F90(127) : warning 197 - Variable KMIN has been declared but not used
+D:\USASK\PhD_USASK\Research\Resources\Model\Code\TRUNK_test-1\PDMROF.F90(127) : warning 197 - Variable K1M has been declared but not used
+D:\USASK\PhD_USASK\Research\Resources\Model\Code\TRUNK_test-1\PDMROF.F90(127) : warning 197 - Variable K2M has been declared but not used
+D:\USASK\PhD_USASK\Research\Resources\Model\Code\TRUNK_test-1\PDMROF.F90(294) : warning 179 - Comparing floating point quantities for equality may give misleading results
+*** No main, WinMain or LibMain function
+*** Compilation abandoned
